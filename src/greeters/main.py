@@ -5,8 +5,8 @@ from sentence_transformers import SentenceTransformer, util
 
 path = os.getcwd()
 
-GUIDES_DIR = os.path.join(path, "src", "guides")
-TOURISTS_DIR = os.path.join(path, "src", "tourists")
+GUIDES_DIR = os.path.join(path, "guides")
+TOURISTS_DIR = os.path.join(path, "tourists")
 
 model = SentenceTransformer("all-mpnet-base-v2", device="cpu")
 

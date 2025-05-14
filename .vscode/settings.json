@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "/Users/vico/Desktop/greeters/.pixi/envs/default/bin/python",
+  "python.analysis.typeCheckingMode": "strict",
+  "cSpell.words": ["pixi"]
+}
